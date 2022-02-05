@@ -31,30 +31,349 @@ Grading
 
 The final grade will be calculated based on the following weights:
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem Sets | 34% |
-| Quiz 1 | 33% |
-| Quiz 2 | 33% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem Sets
+{{< tdclose >}}
+{{< tdopen >}}
+34%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+33%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Maxwell Equations in Free Space (I) | Problem set 1 out |
-| 2 |  {{< br >}}{{< br >}} Maxwell Equations in Free Space (II) {{< br >}}{{< br >}} Polarization {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 1 due {{< br >}}{{< br >}} Problem set 2 out {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Lorentz Force Law {{< br >}}{{< br >}} Hertzian Waves (I) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 2 due {{< br >}}{{< br >}} Problem set 3 out {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Hertzian Waves (II) {{< br >}}{{< br >}} Boundary Conditions {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 3 due {{< br >}}{{< br >}} Problem set 4 out {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Transmission Line Theory {{< br >}}{{< br >}} Transients on Transmission Lines {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 4 due {{< br >}}{{< br >}} Problem set 5 out {{< br >}}{{< br >}}  |
-| 6 |  {{< br >}}{{< br >}} Normal Modes on Transmission Lines {{< br >}}{{< br >}} Phase Matching {{< br >}}{{< br >}}  | Problem set 5 due |
-| 7 | Reflection and Transmission at a Plane Boundary (I) | Problem set 6 out |
-| &nbsp; | Quiz 1 | &nbsp; |
-| 8 |  {{< br >}}{{< br >}} Reflection and Transmission at a Plane Boundary (II) {{< br >}}{{< br >}} Dielectric Waveguide {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 6 due {{< br >}}{{< br >}} Problem set 7 out {{< br >}}{{< br >}}  |
-| 9 | Parallel Plate Waveguide |  {{< br >}}{{< br >}} Problem set 7 due {{< br >}}{{< br >}} Problem set 8 out {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Rectangular Waveguide {{< br >}}{{< br >}} Waves in Media {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Problem set 8 due {{< br >}}{{< br >}} Problem set 9 out {{< br >}}{{< br >}}  |
-| 11 | Sinusoidal Steady State Transmission Lines (I) |  {{< br >}}{{< br >}} Problem set 9 due {{< br >}}{{< br >}} Problem set 10 out {{< br >}}{{< br >}}  |
-| 12 | Sinusoidal Steady State Transmission Lines (II) | Problem set 10 due |
-| 13 | Lumped Element Transmission Lines | &nbsp; |
-| 14 | Transmission Line Modeling | &nbsp; |
-| &nbsp; | Quiz 2 |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Maxwell Equations in Free Space (I)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 1 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Maxwell Equations in Free Space (II)
+
+Polarization
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 1 due
+
+Problem set 2 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lorentz Force Law
+
+Hertzian Waves (I)
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 2 due
+
+Problem set 3 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Hertzian Waves (II)
+
+Boundary Conditions
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 3 due
+
+Problem set 4 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Transmission Line Theory
+
+Transients on Transmission Lines
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 4 due
+
+Problem set 5 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Normal Modes on Transmission Lines
+
+Phase Matching
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 5 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Reflection and Transmission at a Plane Boundary (I)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 6 out
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 1
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reflection and Transmission at a Plane Boundary (II)
+
+Dielectric Waveguide
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 6 due
+
+Problem set 7 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Parallel Plate Waveguide
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 7 due
+
+Problem set 8 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Rectangular Waveguide
+
+Waves in Media
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 8 due
+
+Problem set 9 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Sinusoidal Steady State Transmission Lines (I)
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Problem set 9 due
+
+Problem set 10 out
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Sinusoidal Steady State Transmission Lines (II)
+{{< tdclose >}}
+{{< tdopen >}}
+Problem set 10 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Lumped Element Transmission Lines
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Transmission Line Modeling
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+{{< tdopen >}}
+Quiz 2
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
