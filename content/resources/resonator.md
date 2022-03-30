@@ -4,6 +4,7 @@ description: This resource contains the setup and procedural information for Res
   Cavity and Perturbation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-630-electromagnetics-fall-2006/fbe25ed0bbbe697c896c0408d51cbe7f_resonator.pdf
 file_type: application/pdf
+parent_uid: 389ec559-bff1-dd7d-1c0a-b11e71e43d7b
 resourcetype: Document
 title: resonator.pdf
 uid: fbe25ed0-bbbe-697c-896c-0408d51cbe7f

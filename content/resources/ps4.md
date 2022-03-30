@@ -4,6 +4,7 @@ description: This resource contains problems to test students understanding of c
   material.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/6-630-electromagnetics-fall-2006/85b1c70a1c1066b2de5e56f855e05831_ps4.pdf
 file_type: application/pdf
+parent_uid: e2b60983-a131-0aca-8075-63e2cf7aa577
 resourcetype: Document
 title: ps4.pdf
 uid: 85b1c70a-1c10-66b2-de5e-56f855e05831
